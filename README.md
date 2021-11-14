@@ -14,4 +14,4 @@ Pass In JSON data in form of data object as shown below.
 ### Invalid Input Response
 ![me](https://res.cloudinary.com/dy9tzgg9i/image/upload/v1631193136/RegistrationForm/Screenshot_from_2021-09-09_18-41-56_buzr7f.png)
 #### As mentioned Invalid Input Results Bad Request
-
+## Make get request on `/calc/regression/`
